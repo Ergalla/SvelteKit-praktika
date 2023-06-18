@@ -1,1 +1,1 @@
-# SvelteKit-praktika
+# Практика на SvelteKit
